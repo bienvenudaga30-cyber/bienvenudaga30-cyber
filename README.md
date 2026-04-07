@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Bienvenu%20DAGA&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20·%20GCI%20University%20of%20Tokyo%202026&descSize=22&descAlignY=58&descColor=d0e8ff" width="100%"/>
-</p>
+<h1 align="center">Bienvenu DAGA</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=620&lines=Data+Scientist+in+Training+%F0%9F%93%88;GCI+%E2%80%94+University+of+Tokyo+2026+%F0%9F%87%AF%F0%9F%87%B5;Bridging+raw+data+and+smart+decisions+%F0%9F%94%8D;Based+in+Cotonou%2C+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
@@ -9,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://gci.u-tokyo.ac.jp/">
+  <a href="https://gci2.t.u-tokyo.ac.jp">
     <img src="https://img.shields.io/badge/GCI%202026-University%20of%20Tokyo-white?style=for-the-badge&labelColor=8e0c24&logoColor=white" />
   </a>
   &nbsp;
