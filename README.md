@@ -1,16 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Bienvenu%20DAGA&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20%C2%B7%20GCI%20University%20of%20Tokyo%202026&descSize=22&descAlignY=58&descColor=d0e8ff" width="100%"/>
-</p>
+<h1 align="center">Bienvenu DAGA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=650&lines=Data+Scientist+in+Training+%F0%9F%93%88;GCI+%E2%80%94+University+of+Tokyo+2026+%F0%9F%87%AF%F0%9F%87%B5;Bridging+raw+data+and+smart+decisions+%F0%9F%94%8D;Building+the+web%2C+one+line+at+a+time+%F0%9F%8C%90;Based+in+Cotonou%2C+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=620&lines=Data+Scientist+in+Training+%F0%9F%93%88;GCI+%E2%80%94+University+of+Tokyo+2026+%F0%9F%87%AF%F0%9F%87%B5;Bridging+raw+data+and+smart+decisions+%F0%9F%94%8D;Based+in+Cotonou%2C+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF" alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://gci2.t.u-tokyo.ac.jp">
-    <img src="https://img.shields.io/badge/GCI%202026-University%20of%20Tokyo-white?style=for-the-badge&labelColor=8e0c24" />
+    <img src="https://img.shields.io/badge/GCI%202026-University%20of%20Tokyo-white?style=for-the-badge&labelColor=8e0c24&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://bienvenudaga.vercel.app/">
@@ -56,34 +54,6 @@ philosophy  : "Data-driven, human-centered."
 
 ---
 
-## 📦 featured\_project — bportofolio
-
-<p align="center">
-  <a href="https://bienvenudaga.vercel.app/">
-    <img src="https://img.shields.io/github/commit-activity/m/bienvenudaga30-cyber/bportofolio?style=for-the-badge&color=green&label=Commits%20%2F%20Month" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bienvenudaga30-cyber/bportofolio">
-    <img src="https://img.shields.io/github/languages/top/bienvenudaga30-cyber/bportofolio?style=for-the-badge&color=blue&label=Top%20Language" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bienvenudaga30-cyber/bportofolio">
-    <img src="https://img.shields.io/github/last-commit/bienvenudaga30-cyber/bportofolio?style=for-the-badge&color=orange&label=Last%20Commit" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bienvenudaga30-cyber/bportofolio">
-    <img src="https://img.shields.io/github/repo-size/bienvenudaga30-cyber/bportofolio?style=for-the-badge&color=blueviolet&label=Repo%20Size" />
-  </a>
-</p>
-
-> **[bienvenudaga.vercel.app](https://bienvenudaga.vercel.app/)** — My personal portfolio showcasing data science projects and web development work.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-</p>
-
 ## 📊 github\_insights
 
 <p align="center">
@@ -97,11 +67,7 @@ philosophy  : "Data-driven, human-centered."
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bienvenudaga30-cyber&bg_color=0d1117&color=90caf9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bienvenudaga30-cyber&bg_color=0d1117&color=90caf9&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -124,9 +90,8 @@ philosophy  : "Data-driven, human-centered."
 
 ## 🌍 about\_africa
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&customColorList=0,2,2,5,30&height=100&text=Repr%C3%A9senter%20le%20B%C3%A9nin%20sur%20la%20sc%C3%A8ne%20mondiale%20de%20la%20data%20science&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</p>
+> Représenter le Bénin sur la scène mondiale de la data science —
+> **prouver que l'excellence africaine n'a pas de frontières.**
 
 ---
 
