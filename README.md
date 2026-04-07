@@ -1,32 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460,533483&height=200&section=header&text=Bienvenu%20DAGA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20Web%20Enthusiast%20%C2%B7%20Cotonou%2C%20B%C3%A9nin&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460,533483&height=200&section=header&text=Bienvenu%20DAGA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20·%20Web%20Enthusiast%20·%20Cotonou%2C%20Bénin%20🇧🇯&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=90CAF9&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%93%8A+Turning+raw+data+into+smart+decisions" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%87%A7%F0%9F%87%AF+Representing+Benin+on+the+world+stage" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=A8FF78&center=true&vCenter=true&width=600&lines=%F0%9F%87%AF%F0%9F%87%B5+GCI+2026+%E2%80%94+University+of+Tokyo" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%8E%82+18+y%2Fo+%7C+Data-driven%2C+human-centered." />
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://committers.top/benin"><img src="https://img.shields.io/badge/committers.top%20rank-B%C3%A9nin-90caf9?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="https://committers.top/benin"><img src="https://img.shields.io/badge/committers.top%20rank-Bénin-blue?style=flat-square&logo=github" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=bienvenudaga30-cyber&label=Views&color=1a1a2e&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=bienvenudaga30-cyber&label=Views&color=0f3460&style=flat-square" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/kossoba-destin-bienvenu-daga-4496b8396"><img src="https://img.shields.io/badge/LinkedIn-bienvenudaga-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kossoba-destin-bienvenu-daga-4496b8396"><img src="https://img.shields.io/badge/LinkedIn-bienvenudaga-0A66C2?style=flat-square&logo=linkedin" /></a>
   &nbsp;
-  <a href="https://gci2.t.u-tokyo.ac.jp"><img src="https://img.shields.io/badge/GCI%20World%202026-Univ.%20Tokyo-ffffff?style=flat-square&labelColor=8e0c24" /></a>
+  <a href="https://gci2.t.u-tokyo.ac.jp"><img src="https://img.shields.io/badge/GCI%20World%202026-Univ.%20Tokyo-8e0c24?style=flat-square" /></a>
   &nbsp;
-  <a href="https://bienvenudaga.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bienvenudaga.vercel.app-90caf9?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="https://bienvenudaga.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bienvenudaga.vercel.app-000000?style=flat-square&logo=vercel" /></a>
 </p>
 
 ---
@@ -35,10 +20,10 @@
 
 ```yaml
 name        : Bienvenu DAGA
-age         : 18 🎂
-location    : Cotonou, Benin 🇧🇯
+age         : —
+location    : Cotonou, Bénin 🇧🇯
 role        : Data Scientist & Web Enthusiast
-education   : Digitalisation & Data Science — Seme City Institute (SCITI)
+education   : Digitalisation & Data Science — Sème City Institute (SCITI)
 selection   : GCI World 2026 — University of Tokyo 🇯🇵
 mission     : "Bridging the gap between raw data and smart decisions."
 philosophy  : "Data-driven, human-centered."
@@ -54,10 +39,10 @@ philosophy  : "Data-driven, human-centered."
           |      One of the few African students admitted
           |      gci2.t.u-tokyo.ac.jp
           |
-● 2025 ── Seme City Institute (SCITI)
+● 2025 ── Sème City Institute (SCITI)
           |      Bachelor · Digitalisation & Data Science 🎓
           |
-● 2024 ── Baccalaureat Serie C 🏅
+● 2024 ── Baccalauréat Série C 🏅
                  Mention : Excellence Scientifique
 ```
 
@@ -71,7 +56,7 @@ philosophy  : "Data-driven, human-centered."
 
 ```yaml
 languages   : Python · R · SQL · HTML5 · CSS3 · Node.js
-ml_tools    : Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn
+ml_tools    : Scikit-learn · Pandas · NumPy · Matplotlib
 devops      : Git · GitHub · Vercel
 focus       : Machine Learning · Data Analysis · Web Development
 ```
@@ -81,25 +66,25 @@ focus       : Machine Learning · Data Analysis · Web Development
 ## > github_insights
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=bienvenudaga30-cyber&show_icons=true&hide_border=true&title_color=90caf9&text_color=c9d1d9&bg_color=0d1117&icon_color=58a6ff&count_private=true&include_all_commits=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=bienvenudaga30-cyber&show_icons=true&hide_border=true&title_color=0f3460&text_color=c9d1d9&bg_color=0d1117&icon_color=533483&count_private=true&include_all_commits=true" />
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenudaga30-cyber&layout=compact&hide_border=true&title_color=90caf9&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenudaga30-cyber&layout=compact&hide_border=true&title_color=0f3460&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bienvenudaga30-cyber&theme=github-dark-blue&hide_border=true&stroke=90caf9&ring=90caf9&fire=ff6b6b&currStreakLabel=90caf9&sideLabels=c9d1d9&dates=6e7681" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bienvenudaga30-cyber&theme=github-dark-blue&hide_border=true&stroke=0f3460&ring=0f3460&fire=533483&currStreakLabel=0f3460" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bienvenudaga30-cyber&bg_color=0d1117&color=90caf9&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bienvenudaga30-cyber&bg_color=0d1117&color=0f3460&line=533483&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## > about_africa
 
-> Representer le Benin sur la scene mondiale de la data science —
-> **prouver que l'excellence africaine n'a pas de frontieres.**
+> Représenter le Bénin sur la scène mondiale de la data science —
+> **prouver que l'excellence africaine n'a pas de frontières.**
 
 ---
 
@@ -108,7 +93,7 @@ focus       : Machine Learning · Data Analysis · Web Development
   &nbsp;
   <a href="https://www.linkedin.com/in/kossoba-destin-bienvenu-daga-4496b8396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://bienvenudaga.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=90caf9" /></a>
+  <a href="https://bienvenudaga.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
