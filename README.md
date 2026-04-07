@@ -21,12 +21,13 @@
 ## `> whoami`
 ```yaml
 name       : Bienvenu DAGA
+age        : 19 years old
 location   : Cotonou, Bénin 🇧🇯
 role       : Data Scientist & Web Enthusiast
 education  : Digitalisation & Data Science — Sème City Institute (SCITI)
 stack      :
   - Python · R · SQL · Scikit-learn · Pandas
-  - HTML5 · CSS3 · Node.js · Git · Vercel
+  - HTML5 · CSS3 · Node.js · Git · Vercel . java
 selection  : GCI World 2026 · Univ. of Tokyo 🎌
 rank       : Top developers · GitHub Benin
 mission    : "Bridging the gap between raw data and smart decisions."
