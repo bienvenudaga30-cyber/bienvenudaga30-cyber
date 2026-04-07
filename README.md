@@ -1,101 +1,154 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460,533483&height=200&section=header&text=Bienvenu%20DAGA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20·%20Web%20Enthusiast%20·%20Cotonou%2C%20Bénin%20🇧🇯&descAlignY=60&descSize=16" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://committers.top/benin"><img src="https://img.shields.io/badge/committers.top%20rank-Bénin-blue?style=flat-square&logo=github" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=bienvenudaga30-cyber&label=Views&color=0f3460&style=flat-square" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kossoba-destin-bienvenu-daga-4496b8396"><img src="https://img.shields.io/badge/LinkedIn-bienvenudaga-0A66C2?style=flat-square&logo=linkedin" /></a>
-  &nbsp;
-  <a href="https://gci2.t.u-tokyo.ac.jp"><img src="https://img.shields.io/badge/GCI%20World%202026-Univ.%20Tokyo-8e0c24?style=flat-square" /></a>
-  &nbsp;
-  <a href="https://bienvenudaga.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bienvenudaga.vercel.app-000000?style=flat-square&logo=vercel" /></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1208,100:C9A84C&height=180&section=header&text=Bienvenu%20DAGA&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%C2%B7%20Web%20Enthusiast%20%C2%B7%20Cotonou%2C%20B%C3%A9nin%20%F0%9F%87%A7%F0%9F%87%AF&descAlignY=62&descSize=15&animation=fadeIn&fontAlign=50"/>
+
+<br/><br/>
+
+[![committers.top badge](https://user-badge.committers.top/benin_private/bienvenudaga30-cyber.svg)](https://user-badge.committers.top/benin_private/bienvenudaga30-cyber)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=bienvenudaga30-cyber&style=flat-square&color=C9A84C&label=Views)](https://github.com/bienvenudaga30-cyber)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bienvenudaga-C9A84C?style=flat-square&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a)](https://www.linkedin.com/in/kossoba-destin-bienvenu-daga-4496b8396)
+&nbsp;
+[![GCI Tokyo](https://img.shields.io/badge/GCI_World_2026-Univ._Tokyo-C9A84C?style=flat-square&labelColor=0a0a0a)](https://gci2.t.u-tokyo.ac.jp)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-bienvenudaga.vercel.app-C9A84C?style=flat-square&labelColor=0a0a0a)](https://bienvenudaga.vercel.app)
+
+</div>
 
 ---
 
-## > whoami
-
+## `> whoami`
 ```yaml
-name        : Bienvenu DAGA
-age         : —
-location    : Cotonou, Bénin 🇧🇯
-role        : Data Scientist & Web Enthusiast
-education   : Digitalisation & Data Science — Sème City Institute (SCITI)
-selection   : GCI World 2026 — University of Tokyo 🇯🇵
-mission     : "Bridging the gap between raw data and smart decisions."
-philosophy  : "Data-driven, human-centered."
+name       : Bienvenu DAGA
+location   : Cotonou, Bénin 🇧🇯
+role       : Data Scientist & Web Enthusiast
+education  : Digitalisation & Data Science — Sème City Institute (SCITI)
+stack      :
+  - Python · R · SQL · Scikit-learn · Pandas
+  - HTML5 · CSS3 · Node.js · Git · Vercel
+selection  : GCI World 2026 · Univ. of Tokyo 🎌
+rank       : Top developers · GitHub Benin
+mission    : "Bridging the gap between raw data and smart decisions."
+philosophy : "Data-driven, human-centered."
 ```
 
 ---
 
-## > git log --oneline
-
+## `> git log --oneline`
 ```
-● 2026 ── GCI World — University of Tokyo 🇯🇵
-          |      Selected for the Global Consumer Intelligence program
-          |      One of the few African students admitted
-          |      gci2.t.u-tokyo.ac.jp
-          |
-● 2025 ── Sème City Institute (SCITI)
-          |      Bachelor · Digitalisation & Data Science 🎓
-          |
-● 2024 ── Baccalauréat Série C 🏅
-                 Mention : Excellence Scientifique
-```
-
----
-
-## > tech_stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,html,css,nodejs,sql,git,github,vscode,pycharm,vercel&theme=dark" />
-</p>
-
-```yaml
-languages   : Python · R · SQL · HTML5 · CSS3 · Node.js
-ml_tools    : Scikit-learn · Pandas · NumPy · Matplotlib
-devops      : Git · GitHub · Vercel
-focus       : Machine Learning · Data Analysis · Web Development
+● 2026  ──  GCI World — University of Tokyo 🎌
+│           Selected cohort · Global Consumer Intelligence
+│           One of the few African students admitted
+│           gci2.t.u-tokyo.ac.jp
+│
+● 2025  ──  Sème City Institute (SCITI)
+│           Bachelor · Digitalisation & Data Science
+│
+● 2024  ──  Baccalauréat Série C 🏅
+│           Mention : Excellence Scientifique
+│
+→ 2027+ ──  Scale 🌍
+            Research → Data → Continent
 ```
 
 ---
 
-## > github_insights
+## `> ./stack.sh`
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=bienvenudaga30-cyber&show_icons=true&hide_border=true&title_color=0f3460&text_color=c9d1d9&bg_color=0d1117&icon_color=533483&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenudaga30-cyber&layout=compact&hide_border=true&title_color=0f3460&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bienvenudaga30-cyber&theme=github-dark-blue&hide_border=true&stroke=0f3460&ring=0f3460&fire=533483&currStreakLabel=0f3460" />
-</p>
+**Data & Science**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bienvenudaga30-cyber&bg_color=0d1117&color=0f3460&line=533483&point=ffffff&area=true&hide_border=true" />
-</p>
+[![Skills](https://skillicons.dev/icons?i=python,r&theme=dark)](https://skillicons.dev)
 
----
+**Web & Product**
 
-## > about_africa
+[![Skills](https://skillicons.dev/icons?i=html,css,nodejs,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-> Représenter le Bénin sur la scène mondiale de la data science —
-> **prouver que l'excellence africaine n'a pas de frontières.**
+**Infrastructure**
+
+[![Skills](https://skillicons.dev/icons?i=vercel,postgres,pycharm&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="mailto:bienvenudaga30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kossoba-destin-bienvenu-daga-4496b8396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://bienvenudaga.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+## `> ./stats.sh`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,533483,0f3460,16213e,1a1a2e&height=120&section=footer" width="100%"/>
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bienvenudaga30-cyber&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&icon_color=C9A84C&text_color=555555&ring_color=C9A84C&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenudaga30-cyber&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=C9A84C&text_color=555555&langs_count=6"/>
+
+<br/>
+
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=bienvenudaga30-cyber&hide_border=true&background=0a0a0a&stroke=1a1208&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=444444&dates=333333&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+## `> ./activity.sh`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bienvenudaga30-cyber&bg_color=0a0a0a&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C&hide_border=true&custom_title=Contribution%20Graph"/>
+
+</div>
+
+---
+
+## `> ./snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bienvenudaga30-cyber/bienvenudaga30-cyber/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bienvenudaga30-cyber/bienvenudaga30-cyber/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bienvenudaga30-cyber/bienvenudaga30-cyber/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+---
+
+## `> cat manifesto.txt`
+
+La plupart des plateformes mondiales traitent les marchés africains comme une réflexion après coup.
+
+Pas de conception axée sur les données locales.  
+Pas de compréhension réelle des besoins du terrain.  
+Pas de solutions adaptées aux réalités africaines.
+
+Je ne construis pas *pour* l'Afrique depuis l'extérieur.  
+Je construis **depuis l'intérieur** — ce qui signifie que les contraintes deviennent l'opportunité.
+
+<div align="center">
+
+*"Le fossé entre la tech mondiale et les besoins africains*  
+*n'est pas un problème. C'est l'opportunité."*
+
+<br/>
+
+**Si tu es un jeune Africain qui pense que les meilleures opportunités**  
+**sont réservées aux bons parcours — candidate quand même.**
+
+🌍 **Le monde regarde l'Afrique.**
+
+</div>
+
+---
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:bienvenudaga30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://www.linkedin.com/in/kossoba-destin-bienvenu-daga-4496b8396)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=C9A84C)](https://bienvenudaga.vercel.app)
+[![GCI Tokyo](https://img.shields.io/badge/GCI_Tokyo-0a0a0a?style=for-the-badge&logo=academia&logoColor=C9A84C)](https://gci2.t.u-tokyo.ac.jp)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,50:1a1208,100:0a0a0a&height=90&section=footer&animation=fadeIn"/>
+
+</div>
